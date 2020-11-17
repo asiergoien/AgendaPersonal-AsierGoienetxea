@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <string name="app_name">Personal agenda</string>
+    <string name="usuario">user</string>
+    <string name="contraseña">Password</string>
+    <string name="login">Log</string>
+    <string name="registrar">register</string>
+    <string name="Contra_nueva">New password</string>
+    <string name="intro_contra">Enter new password</string>
+    <string name="repite_contra">Repeat new password</string>
+    <string name="nombre">Name  </string>
+    <string name="cancelar">Cancel</string>
+    <string name="Guardar">save</string>
+    <string name="Texto1">Welcome to your Personal Agenda.\nWhat do you want to do?</string>
+    <string name="consultar_lis"> Check list of tasks</string>
+    <string name="crear_tarea">Create new task</string>
+    <string name="Crear_Tarea_texto">Enter the details of the task you want to create </string>
+    <string name="Descripcion">Description</string>
+    <string name="text_nombre_tarea">Name of the task</string>
+    <string name="text_descripcion_tarea">Description of the task</string>
+    <string name="Text_fecha">Date</string>
+    <string name="Text_fecha_tarea">Example: 12/23/2020</string>
+    <string name="Coste">Cost</string>
+    <string name="Text_coste">Example: € 20</string>
+    <string name="Prioridad">Priority</string>
+    <string name="Tarea">Task done</string>
+    <string name="Text_tarea">DELETE TASK</string>
+    <string name="Salir">Exit</string>
+    <string name="Acerca_de">About ...</string>
+    <string name="Cambiar_contraseña">Change Password</string>
+    <string name="Crear_nueva_tarea">Create new task</string>
+    <string name="Text_contra_antigua">Old password</string>
+    <string name="Text_contra_antigua_intro">Enter old password</string>
+    <string-array name="priodidades">
+        <item>Urgent</item>
+        <item>Urgent</item>
+        <item>high</item>
+        <item>Medium</item>
+        <item>Low</item>
+    </string-array>
+
+    <string name="TextAcercaDe">This application is a project that we have to submit for the \n Multimedia programming and mobile devices course. \n Does this application deserve a 10?</string>
+    <string name="AcercaDe">About</string>
+    <string name="si">well deserved</string>
+    <string name="no">Are you crazy? Of course not</string>
+    <string name="Gracias">Thank you ;)</string>
+    <string name="No_pasa_nada">Well, maybe I throw myself out the window</string>
+    <string name="todas">All</string>
+    <string name="hechas">Done</string>
+    <string name="pendientes">pending </string>
+    <string name="txtModificartarea">Modify task</string>
+    <string name="txtEliminartarea">Delete task</string>
+    <string name="txtElegir">Choose the option you want</string>
+
+    <string name="ExitoCambiar">Success when changing password</string>
+    <string name="VerfiContra">Check old password</string>
+    <string name="UsuRegis">User is already registered</string>
+    <string name="ExitoUsu">You have successfully registered</string>
+    <string name="UsuNoregis">User is not registered</string>
+    <string name="ContraNoIgual">Passwords are not the same</string>
+    <string name="NocamposBlancos">There can be no blank fields</string>
+    <string name="ExitoSesion">Login Success</string>
+    <string name="Contramal">The username or password is not correct.</string>
+    <string name="QueDeseHacer">What would you like to do</string>
+    <string name="SeBorro">Success when deleting the task</string>
+    <string name="Noborrar">Task could not be deleted</string>
+    <string name="exito_modificar">Success in modifying the task</string>
+    <string name="Error_base">Database connection error</string>
+    <string name="comprueba_campos">The task could not be modified.\nCheck all fields</string>
+    <string name="Exito_Borrar">Item was deleted successfully</string>
+    <string name="error_Borrar">Task could not be deleted</string>
+    <string name="exito_crear">Success when creating the task</string>
+
+
+</resources>

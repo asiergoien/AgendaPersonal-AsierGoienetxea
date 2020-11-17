@@ -1,0 +1,76 @@
+<resources>
+    <string name="app_name">AgendaPersonal</string>
+    <string name="usuario">Usuario</string>
+    <string name="contraseña">Contraseña</string>
+    <string name="login">Log</string>
+    <string name="registrar">Registrar</string>
+    <string name="Contra_nueva">Contraseña nueva</string>
+    <string name="intro_contra">Introduce contraseña nueva</string>
+    <string name="repite_contra">Repite contraseña nueva</string>
+    <string name="nombre">Nombre  </string>
+    <string name="cancelar">Cancelar  </string>
+    <string name="Guardar">Guardar  </string>
+    <string name="Texto1">Bienvenido a su Agenda de tareas personal.\n ¿Que desea hacer?</string>
+    <string name="consultar_lis"> Consultar listado de tareas</string>
+    <string name="crear_tarea"> Crear nueva tarea</string>
+    <string name="Crear_Tarea_texto">Introduzca los datos de la tarea que desea crear </string>
+    <string name="Descripcion">Descripcion</string>
+    <string name="text_nombre_tarea">Nombre de la tarea</string>
+    <string name="text_descripcion_tarea">Descripcion de la tarea</string>
+    <string name="Text_fecha">Fecha</string>
+    <string name="Text_fecha_tarea">Ejemplo: 23/12/2020</string>
+    <string name="Coste">Coste</string>
+    <string name="Text_coste">Ejemplo: 20€</string>
+    <string name="Prioridad">Prioridad</string>
+    <string name="Tarea">Tarea realizada</string>
+    <string name="Text_tarea">ELIMINAR TAREA</string>
+    <string name="Salir">Salir</string>
+    <string name="Acerca_de">Acerca de ...</string>
+    <string name="Cambiar_contraseña">Cambiar contraseña</string>
+    <string name="Crear_nueva_tarea">Crear nueva tarea</string>
+    <string name="Text_contra_antigua">Contraseña antigua</string>
+    <string name="Text_contra_antigua_intro">Introduce la contraseña antigua</string>
+    <string-array name="priodidades">
+        <item>Urgente</item>
+        <item>Alta</item>
+        <item>Media</item>
+        <item>Baja</item>
+    </string-array>
+
+    <string name="TextAcercaDe">Esta aplicaicon es un proyecto que tenemos que entragar para la asignatura de \nProgramacion multimedia y dispositivos moviles.\n¿Merece esta aplicacion un 10?</string>
+    <string name="AcercaDe">Acerca De</string>
+    <string name="si">merecidísimo</string>
+    <string name="no">Tu estas loco?Claro que no</string>
+    <string name="Gracias">Gracias ;)</string>
+    <string name="No_pasa_nada">Pues igual me tiro por la ventana</string>
+    <string name="todas">Todas</string>
+    <string name="hechas">Hechas</string>
+    <string name="pendientes">Pendientes</string>
+    <string name="txtModificartarea">Modificar tarea</string>
+    <string name="txtEliminartarea">Eliminar tarea</string>
+    <string name="txtElegir">Elija la opcion desea</string>
+
+    <string name="ExitoCambiar">Exito al cambiar de contraseña</string>
+    <string name="VerfiContra">Verifique la contraseña antigua</string>
+    <string name="UsuRegis">El usuario ya esta registrado</string>
+    <string name="ExitoUsu">Se ha registrado con exito</string>
+    <string name="UsuNoregis">El usuario no esta registrado</string>
+    <string name="ContraNoIgual">Las contraseñas no son iguales</string>
+    <string name="NocamposBlancos">No puede haber campos en blanco</string>
+    <string name="ExitoSesion">Exito al iniciar sesion</string>
+    <string name="Contramal">El usuario o la contraseña no son correctos.</string>
+    <string name="QueDeseHacer">Que desea hacer</string>
+    <string name="SeBorro">Exito al eliminar la tarea</string>
+    <string name="Noborrar">No se ha podido eliminar la tarea</string>
+    <string name="exito_modificar">Exito al modificar la tarea</string>
+    <string name="exito_crear">Exito al crear la tarea</string>
+    <string name="Error_base">Error de conecxion con la base datos</string>
+    <string name="comprueba_campos">No se ha podido modificar la tarea.\nCompruebe todos los campos</string>
+    <string name="Exito_Borrar">Se borró el artículo con exito</string>
+    <string name="error_Borrar">No se ha podido borrar la tarea</string>
+
+
+
+
+
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/AcercaDe"
+        android:title="@string/Acerca_de" />
+    <item
+        android:id="@+id/CambiarContra"
+        android:title="@string/Cambiar_contraseña" />
+    <item
+        android:id="@+id/CrearTarea"
+        android:title="@string/Crear_nueva_tarea" />
+</menu>
